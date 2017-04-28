@@ -7,7 +7,7 @@ clrscr();
 printf("print odd number");
 for(num=m;num<=n;num++)
 {
-if(num%2==0)
+if(num%2==1)
 {
 printf("%d",num);
 }
